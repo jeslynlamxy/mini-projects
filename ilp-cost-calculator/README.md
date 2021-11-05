@@ -1,4 +1,4 @@
-# ilp-finance-calculator
+# ilp-cost-calculator
 - offered an ilp? oh my god! axa wealth harvest? who is being harvested, let's see.
 - i wondered if i could create a simulation and i found out how much was actually charged.
 - i just did this because i was frustrated about how the plan is presented and needed to figure things out.
