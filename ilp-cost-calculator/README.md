@@ -2,7 +2,6 @@
 - offered an ilp? oh my god! axa wealth harvest? who is being harvested, let's see.
 - i wondered if i could create a simulation and i found out how much was actually charged.
 - i just did this because i was frustrated about how the plan is presented and needed to figure things out.
-- 
 
 _this is by no means an accurate simulation of the plan, it is just a rough (very jaded calculation) of the costs that you are actually paying the insurance companies._
 
