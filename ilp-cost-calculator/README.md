@@ -15,9 +15,7 @@ _this is by no means an accurate simulation of the plan, it is just a rough (ver
 - calculated only for the 11 year period
 
 
-if you found any errors, or have a better way to do this, or even, find it wrong, do let me know: 
-
-jeslynlxy@hotmail.com
+if you found any errors, or have a better way to do this, or even, find it wrong, do let me know: jeslynlxy@hotmail.com
 
 
 # results obtained
